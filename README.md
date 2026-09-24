@@ -109,3 +109,28 @@ miniguia-estudos-notebooklm/
 ├── Fontes/
 ├── LICENÇA
 └── README.md
+
+📁 Resultados
+
+Contém os experimentos realizados e os materiais de estudo produzidos durante o projeto.
+
+📁 prompts
+
+Contém modelos de prompts que podem ser reutilizados em outros estudos com o NotebookLM.
+
+📁 Fontes
+
+Diretório destinado à organização das fontes utilizadas no projeto.
+
+📖 Materiais produzidos
+Engenharia de prompts: registro dos cinco experimentos realizados;
+Resumos: síntese dos principais conceitos estudados;
+Glossário: conceitos e termos importantes;
+Prompts reutilizáveis: modelos para futuras pesquisas e estudos.
+💡 Conclusão
+
+O projeto mostrou, na prática, como o NotebookLM pode ser utilizado como uma ferramenta de aprendizagem ativa.
+
+Em vez de apenas solicitar respostas, o processo envolveu formular perguntas, testar prompts, identificar lacunas, adicionar uma nova fonte, comparar resultados e avaliar criticamente as informações obtidas.
+
+Esse processo pode ser aplicado a diferentes áreas de estudo, adaptando as fontes e os prompts de acordo com o objetivo da pesquisa.
